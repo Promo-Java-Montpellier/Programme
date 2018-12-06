@@ -1,7 +1,7 @@
 
 
 
-# Tous les exercices de la semaine seront à rendre pour dimanche avant minuit. 
+### Lisez bien toutes les instructions dans le Wiki. les deadlines ne sont pas les mêmes pour tous les exos
 
-Sauf contre indications, comme par exemple certains exos pourront être à rendre en milieu de semaine.
+
 
